@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+ollama
+pydantic
+pydantic-settings
+python-dotenv
+redis
+slowapi
+httpx
